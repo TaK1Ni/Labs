@@ -1,0 +1,13 @@
+﻿  Lab7.cpp
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,2): error C3878: синтаксическая ошибка: непредвиденный маркер "for" после "expression"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,2): message : пропущено восстановление ошибки: "for ( auto  . . . идентификатор"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,14): error C2760: синтаксическая ошибка: непредвиденный элемент ":". Ожидается ";"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,14): error C3878: синтаксическая ошибка: непредвиденный маркер ":" после "expression_statement"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,14): message : пропущено восстановление ошибки: ":"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,22): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,22): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(67,22): message : пропущено восстановление ошибки: ")"
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(69,16): error C2065: i: необъявленный идентификатор
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(149,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(165,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Lab7\Lab7\Lab7.cpp(182,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных

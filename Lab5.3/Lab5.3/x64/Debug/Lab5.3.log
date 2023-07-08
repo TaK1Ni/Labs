@@ -1,0 +1,7 @@
+﻿  Lab5.3.cpp
+  matrix.cpp
+  Создание кода...
+C:\WorkDir\labs-Nukutyn\Lab5.3\Lab5.3\matrix.cpp(163): warning C4172: возвращение адреса локальной или временной переменной : res
+C:\WorkDir\labs-Nukutyn\Lab5.3\Lab5.3\matrix.cpp(204): warning C4172: возвращение адреса локальной или временной переменной : res
+C:\WorkDir\labs-Nukutyn\Lab5.3\Lab5.3\matrix.cpp(171): warning C4172: возвращение адреса локальной или временной переменной : res
+  Lab5.3.vcxproj -> C:\WorkDir\labs-Nukutyn\Lab5.3\x64\Debug\Lab5.3.exe

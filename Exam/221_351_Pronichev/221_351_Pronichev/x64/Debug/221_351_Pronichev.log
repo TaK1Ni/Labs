@@ -1,0 +1,22 @@
+﻿  Game_Pronichev.cpp
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(106,52): warning C4018: >: несоответствие типов со знаком и без знака
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(110,18): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(116,17): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(118,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(163,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(169,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(200,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(205,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(249,7): warning C4101: Max_First: неиспользованная локальная переменная
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(250,7): warning C4101: Max_Second: неиспользованная локальная переменная
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(401,45): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(406,45): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(411,45): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(416,66): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(422,66): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(428,66): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(434,87): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Source_Pronichev.cpp
+  Создание кода...
+C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\221_351_Pronichev\Game_Pronichev.cpp(348): warning C4715: Game_Pronichev::load: значение возвращается не при всех путях выполнения
+  221_351_Pronichev.vcxproj -> C:\WorkDir\labs-Nukutyn\Exam\221_351_Pronichev\x64\Debug\221_351_Pronichev.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\NiKiTa\source\repos\Lab3\Lab3\Source.cpp(25,7): warning C4101: fin: неиспользованная локальная переменная
+C:\Users\NiKiTa\source\repos\Lab3\Lab3\Source.cpp(110,6): warning C4101: kol: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\NiKiTa\source\repos\Lab3\x64\Debug\Lab3.exe

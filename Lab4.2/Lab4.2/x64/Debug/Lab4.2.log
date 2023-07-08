@@ -1,0 +1,11 @@
+﻿  Lab4.2.cpp
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(10,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(21,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(32,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(42,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(51,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(52,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(67,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(68,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\NiKiTa\source\repos\Lab4.2\Lab4.2\Lab4.2.cpp(72,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab4.2.vcxproj -> C:\Users\NiKiTa\source\repos\Lab4.2\x64\Debug\Lab4.2.exe
